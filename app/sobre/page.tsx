@@ -190,6 +190,9 @@ export default function Sobre() {
           <span className="px-4 py-2 bg-gray-100 dark:bg-zinc-800 text-gray-900 dark:text-gray-200 rounded-full font-semibold text-sm">
             TypeScript
           </span>
+          <span className="px-4 py-2 bg-gray-100 dark:bg-zinc-800 text-gray-900 dark:text-gray-200 rounded-full font-semibold text-sm">
+            API GitHub
+          </span>
         </div>
       </div>
       {/* Card final */}
